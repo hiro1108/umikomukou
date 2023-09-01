@@ -184,6 +184,14 @@
     .comment2_btn{
         margin-top:50px;
     }
+    .contents2_search{
+   position: absolute;
+    top:500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /**right: 300px;**/
+}
     .comment2_btn_a{
         display:block;
         width: 400px;
@@ -193,7 +201,7 @@
     }
     
     .contents2_search{
-        top:850px;
+        top:900px;
         display:block;
         max-width: 100%;
 
