@@ -279,7 +279,7 @@
     margin:30px auto;
 }
 .contents4_search{
-    top:800px;
+    top:850px;
     left: 50%;
     width: 90%;
    
@@ -335,7 +335,7 @@
 /********************************************************/
 #contents7{
     top:2850px;
-    height:900px;
+    height:1000px;
 }
 .home_business_img01{
     left:0;
@@ -368,6 +368,7 @@
 }
 /********************************************************/
 #footer{
+    /**top:2850px;**/
     top:2850px;
 }
 .home_foot_bg{
